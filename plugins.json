@@ -4,12 +4,12 @@
     "provider": "OpenOSRS",
     "name": "117 HD modified",
     "description": "Modified version of 117hd",
-    "id": "117hd-plugin",
+    "id": "hd-plugin",
     "releases": [
       {
         "date": "2021-03-11",
         "sha512sum": "3384754BE68417BC7BB9639FC34793F4646FA3C3F146E853287E88FE7ECA2A3B376EB5F177C14142CAAB0AC086C7A010CEA4EE544020F32377DE02F560F93387",
-        "version": "4.0.0",
+        "version": "1.2.6",
         "url": "https://github.com/tyler27/plugin-hosting/blob/master/release/hd-1.2.6.jar?raw=true",
         "requires": "^1.0.0"
       }
